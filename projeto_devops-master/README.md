@@ -1,4 +1,4 @@
-# Projeto DevOps: Dashboard de Filmes
+Dashboard de Filmes
 
 Este projeto é uma aplicação completa para análise de dados de bilheteria de filmes, composta por três serviços principais: banco de dados PostgreSQL, API em FastAPI e dashboard interativo em Streamlit. O ambiente é totalmente orquestrado com Docker Compose.
 
